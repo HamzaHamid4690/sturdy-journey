@@ -1,3 +1,7 @@
 npm init or npm init -y
 
 // This cmd is used in terminal to setup package.json that has all the dependencies
+
+npm install
+
+// This cmd is used to install all the dependencies in the package.json file 

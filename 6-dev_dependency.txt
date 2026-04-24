@@ -1,0 +1,6 @@
+npm i nodemon -D
+
+// For installing dev dependencies. This package restarts the browser when changes are detected
+// This cmd installs nodemon locally and thus should be added to the package.json file for running as script
+
+"start": "nodemon ______"  // Add this line with filename to the scripts for nodemon to start on cmd "npm start"
